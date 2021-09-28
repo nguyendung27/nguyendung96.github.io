@@ -83,6 +83,8 @@
             margin-top: 15px;
             border: none;
             cursor: pointer;
+            appearance: none;
+            -webkit-appearance: none;
         }
         
         .btn:hover {
